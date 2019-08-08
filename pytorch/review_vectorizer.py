@@ -1,7 +1,7 @@
 import string
 import numpy as np
 
-from mine.pytorch.vocabulary import Vocabulary
+from pytorch.vocabulary import Vocabulary
 from collections import Counter
 
 class ReviewVectorizer(object):

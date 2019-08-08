@@ -1,5 +1,5 @@
 from torch.utils.data import Dataset, DataLoader
-from mine.pytorch.review_vectorizer import ReviewVectorizer
+from pytorch.review_vectorizer import ReviewVectorizer
 
 import pandas as pd
 import json

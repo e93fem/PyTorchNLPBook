@@ -1,4 +1,4 @@
-from mine.pytorch.vocabulary import Vocabulary
+from pytorch.vocabulary import Vocabulary
 
 v = Vocabulary()
 aid = v.add_token("a")
